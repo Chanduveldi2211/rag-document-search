@@ -83,7 +83,7 @@
 >      
 >       - ```bash
 >         # Clone the repository
->         git clone https://github.com/Chanduveldi2211/rag-document-search.git
+>         git clone https://github.com/Pcveldi22/rag-document-search.git
 >         cd rag-document-search
 >
 >         # Start PostgreSQL with pgvector
@@ -209,4 +209,4 @@
 >
 > ---
 >
-> <p align="center">Made with ❤️ by <a href="https://github.com/Chanduveldi2211">Veldi Purna Chandu</a>a></p>p>
+> <p align="center">Made with ❤️ by <a href="https://github.com/Pcveldi22">Pc Veldi</a>a></p>p>
